@@ -30,10 +30,10 @@ En este caso, nosotros ya teníamos cURL instalado, así que pasamos directament
 ### Objetivos de la práctica
 
 **1. Acceder por ssh de una máquina a otra**
-	Conexión de P1M1 a P1M2	:
-	![](https://imgur.com/yLIBVxV.jpg)
+Conexión de P1M1 a P1M2:
+![](https://imgur.com/yLIBVxV.jpg)
 
-Conexión de P1M2 a P1M1
+Conexión de P1M2 a P1M1:
 ![](https://imgur.com/BbdEVU5.jpg)
 
 **2. Acceder mediante la herramienta curl desde una máquina a la otra**
