@@ -1,4 +1,4 @@
-# Práctica 1
+# Práctica 2
 ##### Alejandro Manuel Hernández Recio y Francisco Miguel Toledo Aguilera
 
 ## Escenario
