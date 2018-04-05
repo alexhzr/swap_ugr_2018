@@ -2,7 +2,7 @@
 ##### Alejandro Manuel Hernández Recio y Francisco Miguel Toledo Aguilera
 
 ## Escenario
-Hemos utilizado VirtualBox en host Ubuntu 16.04, con dos máquinas virtuales Ubuntu Server 16.04 conectadas ambas a un adaptador *host only*.
+Hemos utilizado VirtualBox en host Windows 10, con dos máquinas virtuales Ubuntu Server 16.04 conectadas ambas a un adaptador *host only*.
 
 Las IP son las siguientes:
  - Máquina 1: 10.0.2.15
