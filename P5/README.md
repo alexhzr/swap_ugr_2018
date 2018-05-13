@@ -8,7 +8,6 @@
  - Máquinas virtuales:
 	 -  **P5M1: Servidor de BD I** 
 		 - VBox Interface: 10.0.2.5 /24
-		 - Adaptador puente: 192.168.1.64 /24
 	 - **P5M2: Servidor de BD II**
 		 - VBox Interface: 10.0.2.6 /24
 
