@@ -5,8 +5,8 @@
 Hemos utilizado VirtualBox en host Ubuntu 16.04, con dos máquinas virtuales Ubuntu Server 16.04 conectadas ambas a un adaptador *host only*.
 
 Las IP son las siguientes:
- - Máquina 1 (P1M1): 192.168.56.101
- - Máquina 2 (P1M2): 192.168.56.102
+ - Máquina 1 (P1M1): [ 192.168.56.101 ]
+ - Máquina 2 (P1M2): [ 192.168.56.102 ]
 ![Configuración de red de las máquinas](https://i.imgur.com/1hrKknz.png)
 
 ## Desarrollo
